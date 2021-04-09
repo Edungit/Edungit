@@ -1,9 +1,6 @@
 ![Logo](https://github.com/Edungit/Edungit/blob/main/EDUN_HABEEB_OPEYEMI.jpg)
 ### Edun Habeeb's personal README
 
-<!--
-**Edungit/Edungit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a junior software engineer eager to learn more everyday and become a Full Stack developer
 
 ## Links:
@@ -20,3 +17,7 @@ I'm a junior software engineer eager to learn more everyday and become a Full St
   * vanilla
   * with Bootstrap
   * with LESS
+<!--
+**Edungit/Edungit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
