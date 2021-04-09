@@ -1,4 +1,4 @@
-![Logo](https://github.com/Edungit/Edungit/main/EDUN_HABEEB_OPEYEMI.jpg)
+![Logo](https://github.com/Edungit/Edungit/blob/main/EDUN_HABEEB_OPEYEMI.jpg)
 ### Edun Habeeb's personal README
 
 <!--
