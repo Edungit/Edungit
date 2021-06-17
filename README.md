@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Edungit/Edungit/blob/main/EDUN_HABEEB_OPEYEMI.jpg)
 ### Edun Habeeb's personal README
 
-I'm a junior software engineer eager to learn more everyday and become a Full Stack developer
+I'm a software engineer eager to learn more everyday.
 
 ## Links:
 * My Linkedin: [Edun Habeeb](https://www.linkedin.com/in/edun-habeeb-635680131/)
