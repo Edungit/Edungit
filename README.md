@@ -9,7 +9,8 @@ I'm a software engineer eager to learn more everyday.
 * My Instagram: [@edun_habeeb](https://www.instagram.com/edun_habeeb/)
 * E-mail me at edunhabeeb@gmail.com or habokih@gmail.com
 ## My stack:
-* Ruby
+* React & React Native
+* Redux
 * PHP
 * Javascript
 * HTML
